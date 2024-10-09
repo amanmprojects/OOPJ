@@ -1,0 +1,3 @@
+Exception caught: java.lang.ArithmeticException: / by zero
+This block (finally) is always executed.
+Rest of the code...
