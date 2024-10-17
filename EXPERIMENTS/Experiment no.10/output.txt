@@ -1,0 +1,2 @@
+Caught the exception
+User-Defined Exception occurred
